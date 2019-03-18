@@ -24,4 +24,6 @@ public class Array {
 			System.out.println("["+i+"]" +numeroArra[i]);
 		}
 	}
+	
+	
 }
