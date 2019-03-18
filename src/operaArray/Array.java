@@ -26,6 +26,6 @@ public class Array {
 	}
 	
 	public static void metodo1() {
-		System.out.println("Array");
+		System.out.println("Array metodo 1");
 	}
 }
