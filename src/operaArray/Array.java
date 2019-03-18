@@ -24,4 +24,8 @@ public class Array {
 			System.out.println("["+i+"]" +numeroArra[i]);
 		}
 	}
+	
+	public static void metodo2() {
+		System.out.println("Array metodo 2");
+	}
 }
