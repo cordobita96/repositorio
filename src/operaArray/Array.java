@@ -28,4 +28,16 @@ public class Array {
 	public static void metodo1() {
 		System.out.println("Array metodo 1");
 	}
+	
+	
+	public static void metodo2() {
+		
+		//convierte el i=0; en un cero
+		for (int i=0;i<numeroArra.length;i++) {
+			if (i==0) {
+				numeroArra[i]=numeroArra[i]*0;
+			}
+		}
+		System.out.println("Array metodo 2");
+	}
 }
